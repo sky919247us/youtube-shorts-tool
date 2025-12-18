@@ -19,6 +19,3 @@
 
 ## 部署
 本專案可直接部署至 Streamlit Cloud。
-
-## License
-MIT
